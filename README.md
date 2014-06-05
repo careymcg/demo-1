@@ -10,4 +10,4 @@ This is another line of text.
 
 This is a line entered in the dog branch.
 
-One more line to add.
+One more line to add. And yet some more text.
