@@ -10,8 +10,8 @@ plot(table(rpois(100, 5)), type = "h", col = "red", lwd = 10, main = "rpois(100,
 
 ### Simple Quantiles/ECDF
 
-plot(x <- sort(rnorm(47)), type = "s", main = "plot(x, type = \"s\")")
-points(x, cex = 3.5, col = "cadetblue")
+plot(x <- sort(rnorm(61)), type = "s", main = "plot(x, type = \"s\")")
+points(x, cex = 3.5, col = "cadetblue",lwd = 3)
 
 # This is the end of the file.
 
